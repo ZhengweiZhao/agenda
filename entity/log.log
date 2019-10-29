@@ -1,0 +1,41 @@
+2019/10/28 15:38:40 register: username: fjw password: 123 email: 123@qq.com phone:18011846528
+2019/10/28 16:02:41 login: username: fjw login fail
+2019/10/28 16:05:16 login: username: fjw login fail
+2019/10/28 16:26:19 login: username: fjw login success
+2019/10/28 16:54:53 register: username fjw exist, create account fail
+2019/10/28 16:54:57 login: username: fjw login fail
+2019/10/28 16:56:30 login: username: fjw login success
+2019/10/28 17:18:45 login: username: fjw login fail
+2019/10/28 17:18:49 register: username fjw exist, create account fail
+2019/10/28 17:19:03 register: username: fjwzzw password:  email: 123@qq.com phone:18011846528
+2019/10/28 17:19:57 login: username: fjw login fail
+2019/10/28 17:22:04 register: username fjwzzw exist, create account fail
+2019/10/28 17:22:20 register: username: jessica password: 123 email: 123@qq.com phone:18011846528
+2019/10/28 17:22:25 login: username: fjw login fail
+2019/10/28 17:24:50 login: username: jessica login success
+2019/10/28 17:33:41 register: username: jessicazzw password: 19981222 email: 2992427963@qq.com phone:13611263068
+2019/10/28 17:39:19 register: username: zhaozw password: 19981222 email: 2992427963@qq.com phone:13611263068
+2019/10/28 17:48:08 register: username zhaozw exist, create account fail
+2019/10/28 17:51:57 login: username: zhaozw login fail
+2019/10/28 17:52:04 login: username: zhaozw login success
+2019/10/28 18:31:17 register: username zzw exist, create account fail
+2019/10/28 18:31:58 register: username: zm password: 19981222 email: 2992427963@qq.com phone:13611263068
+2019/10/28 18:34:18 login: username: zm login success
+2019/10/28 18:34:34 login: username: zm login fail
+2019/10/28 18:35:03 login: username: zhaozhengwei login fail
+2019/10/28 18:36:46 register: username: zhaozhengwei password: 981222 email: zzw_bj@sohu.com phone:18011846528
+2019/10/28 18:37:16 register: username zhaozhengwei exist, create account fail
+2019/10/29 11:22:34 login: username: zm login success
+2019/10/29 12:22:25 register: username: z password: 123 email: 1@qq.com phone:180
+2019/10/29 12:25:16 register: username z exist, create account fail
+2019/10/29 12:26:37 register: username z exist, create account fail
+2019/10/29 12:28:18 register: username z exist, create account fail
+2019/10/29 12:38:30 register: username z exist, create account fail
+2019/10/29 12:40:43 register: username z exist, create account fail
+2019/10/29 12:47:48 register: username zhaozhengwei exist, create account fail
+2019/10/29 12:48:21 register: username jessicazzw exist, create account fail
+2019/10/29 12:48:40 register: username: jessicazzw11 password: 19981222 email: zzw_bj@sohu.com phone:18011846528
+2019/10/29 12:54:11 register: username: jessicazzw1111 password: 19981222 email: zzw_bj@sohu.com phone:18011846528
+2019/10/29 12:57:00 login: username: jessicazzw login success
+2019/10/29 12:57:06 login: username: jessicazzw login fail
+2019/10/29 12:57:14 login: username: j login fail
